@@ -1,4 +1,4 @@
-package org.ea.framework.base;
+package com.ea.framework.base;
 
 public class DriverContext {
 }
