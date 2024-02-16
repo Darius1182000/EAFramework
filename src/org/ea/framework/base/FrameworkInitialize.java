@@ -1,4 +1,4 @@
-package org.ea.base;
+package org.ea.framework.base;
 
 public class FrameworkInitialize {
 }
