@@ -28,6 +28,7 @@ public class LoginTest {
 //        driver.findElement(By.name("username")).sendKeys("test");
 //        driver.findElement(By.name("password")).sendKeys("test12345");
 //        driver.findElement(By.xpath("//button[@data-test='signin-submit']")).submit();
+        //test
 
         LoginPage page = new LoginPage(driver);
         page.Login("nume", "parola");
