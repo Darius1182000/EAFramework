@@ -1,5 +1,6 @@
 package com.ea.test.Features.SeleniumTest;
 
+import com.ea.test.Features.Pages.LoginPage;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -24,9 +25,12 @@ public class LoginTest {
     @Test
     public void Login(){
 
-        driver.findElement(By.name("username")).sendKeys("test");
-        driver.findElement(By.name("password")).sendKeys("test12345");
-        driver.findElement(By.xpath("//button[@data-test='signin-submit']")).submit();
+//        driver.findElement(By.name("username")).sendKeys("test");
+//        driver.findElement(By.name("password")).sendKeys("test12345");
+//        driver.findElement(By.xpath("//button[@data-test='signin-submit']")).submit();
+
+        LoginPage page = new LoginPage(driver);
+        page.Login("nume", "parola");
 
     }
 }
