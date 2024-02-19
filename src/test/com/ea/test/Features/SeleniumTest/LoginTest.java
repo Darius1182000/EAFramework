@@ -25,7 +25,7 @@ public class LoginTest {
     public void Login(){
 
         driver.findElement(By.name("username")).sendKeys("test");
-        driver.findElement(By.name("password")).sendKeys("test");
+        driver.findElement(By.name("password")).sendKeys("test12345");
         driver.findElement(By.xpath("//button[@data-test='signin-submit']")).submit();
 
     }
