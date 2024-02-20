@@ -6,4 +6,7 @@ JUnit Jupiter API [v5.10.2](https://mvnrepository.com/artifact/org.junit.jupiter
 Selenium Java [v4.17.0](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.17.0)  
 
 If any error occurs regarding missing JUnit dependencies (installed through maven), JUnit should be added as a dependency manually.
+Also you need to install the Test Automation plugin for Intellij.
+
+For MacOS you should use only drivers compatibles with macOS
 
