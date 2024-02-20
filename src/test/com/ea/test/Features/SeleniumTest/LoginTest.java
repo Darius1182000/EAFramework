@@ -16,10 +16,14 @@ public class LoginTest {
     @BeforeEach
     public void Initialize(){
         //Open the browser
-        System.setProperty("webdriver.gecko.driver", "D:\\SeleniumDrivers\\geckodriver-v0.33.0.exe");
+        //Windows
+        //System.setProperty("webdriver.gecko.driver", "D:\\SeleniumDrivers\\geckodriver_mac-v0.33.0.exe");
+        //MacOS
+        System.setProperty("webdriver.gecko.driver", "lib/geckodriver3_mac");
 
         driver = new FirefoxDriver();
-        driver.navigate().to("http://localhost:3000/signin");
+        //driver.navigate().to("http://localhost:3000/signin");
+        driver.navigate().to("https://www.google.com/");
 
     }
     @Test
