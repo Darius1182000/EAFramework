@@ -1,15 +1,14 @@
-package com.ea.test.Features.SeleniumTest;
+package com.ea.test.features.seleniumtest;
 
-import com.ea.test.Features.Pages.LoginPage;
+import com.ea.framework.base.DriverContext;
+import com.ea.test.features.pages.HomePage;
+import com.ea.test.features.pages.LoginPage;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class LoginTest {
 
-    //Global variables
-    private WebDriver driver = null;
     @BeforeEach
     public void Initialize(){
 
@@ -19,9 +18,9 @@ public class LoginTest {
             System.setProperty("webdriver.gecko.driver", "D:\\SeleniumDrivers\\geckodriver_mac-v0.33.0.exe");
         }
 
-        driver = new FirefoxDriver();
+        DriverContext.Driver = new FirefoxDriver();
         //driver.navigate().to("http://localhost:3000/signin");
-        driver.navigate().to("https://automationteststore.com/index.php?rt=account/login");
+        DriverContext.Driver.navigate().to("https://automationteststore.com/");
 
     }
     @Test
@@ -29,8 +28,12 @@ public class LoginTest {
 
 //        LoginPage page = new LoginPage(driver);
 //        page.Login("nume", "parola");
-        LoginPage page = new LoginPage(driver);
-        page.SignIn("darius", "parola1");
+
+        HomePage homePage = new HomePage();
+        homePage.ClickLogin();
+
+        LoginPage page = new LoginPage();
+        page.SignIn("darius", "darius123");
 
     }
 }
