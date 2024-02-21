@@ -1,6 +1,5 @@
 package com.ea.test.Features.Pages;
 
-
 import com.ea.framework.base.BasePage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
