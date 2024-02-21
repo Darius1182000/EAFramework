@@ -1,7 +1,6 @@
-package com.ea.test.Features.Pages;
+package com.ea.test.features.pages;
 
 import com.ea.framework.base.BasePage;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
@@ -9,8 +8,8 @@ import org.openqa.selenium.support.How;
 public class LoginPage extends BasePage {
 
     //Initialize the PageFactory
-    public LoginPage(WebDriver driver) {
-        super(driver);
+    public LoginPage() {
+
     }
 
     @FindBy (how = How.NAME, using = "username")
