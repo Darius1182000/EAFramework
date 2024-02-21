@@ -12,10 +12,12 @@ public class LoginTest {
     private WebDriver driver = null;
     @BeforeEach
     public void Initialize(){
-        //Windows
-        //System.setProperty("webdriver.gecko.driver", "D:\\SeleniumDrivers\\geckodriver_mac-v0.33.0.exe");
-        //MacOS
-        System.setProperty("webdriver.gecko.driver", "lib/geckodriverMAC");
+
+        if(System.getProperty("os.name").contains("Mac OS")){
+            System.setProperty("webdriver.gecko.driver", "lib/geckodriverMAC");
+        } else if (System.getProperty("os.name").contains("Windows")) {
+            System.setProperty("webdriver.gecko.driver", "D:\\SeleniumDrivers\\geckodriver_mac-v0.33.0.exe");
+        }
 
         driver = new FirefoxDriver();
         //driver.navigate().to("http://localhost:3000/signin");
