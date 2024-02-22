@@ -15,7 +15,7 @@ public class LoginTest {
         if(System.getProperty("os.name").contains("Mac OS")){
             System.setProperty("webdriver.gecko.driver", "lib/geckodriverMAC");
         } else if (System.getProperty("os.name").contains("Windows")) {
-            System.setProperty("webdriver.gecko.driver", "D:\\SeleniumDrivers\\geckodriver_mac-v0.33.0.exe");
+            System.setProperty("webdriver.gecko.driver", "lib/geckodriver-v0.33.0.exe");
         }
 
         DriverContext.Driver = new FirefoxDriver();
