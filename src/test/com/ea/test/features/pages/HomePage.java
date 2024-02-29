@@ -6,14 +6,15 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
 public class HomePage extends BasePage {
-    public HomePage() {
+
+    public HomePage(){
 
     }
 
-    @FindBy(how = How.LINK_TEXT, using = "Login or register")
-    public WebElement loginLink;
+    @FindBy(how = How.XPATH, using = "//button[@data-test='user-onboarding-next']")
+    public WebElement nextButton;
 
-    public void ClickLogin() {
-        loginLink.click();
+    public void completeOnboarding(){
+        nextButton.click();
     }
 }

@@ -1,39 +1,73 @@
 package com.ea.test.features.seleniumtest;
 
+import com.ea.framework.base.BrowserTypes;
 import com.ea.framework.base.DriverContext;
+import com.ea.framework.base.FrameworkInitialize;
+import com.ea.framework.utilities.DatabaseUtil;
+import com.ea.framework.utilities.ExcelUtil;
+import com.ea.framework.utilities.LogUtil;
 import com.ea.test.features.pages.HomePage;
+import com.ea.test.features.pages.SignUpPage;
 import com.ea.test.features.pages.LoginPage;
+import jxl.read.biff.BiffException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class LoginTest {
+import java.io.IOException;
+import java.sql.Connection;
+
+public class LoginTest extends FrameworkInitialize {
 
     @BeforeEach
-    public void Initialize(){
+    public void Initialize() throws IOException {
 
-        if(System.getProperty("os.name").contains("Mac OS")){
-            System.setProperty("webdriver.gecko.driver", "lib/geckodriverMAC");
-        } else if (System.getProperty("os.name").contains("Windows")) {
-            System.setProperty("webdriver.gecko.driver", "lib/geckodriver-v0.33.0.exe");
+//        String connectionUrl =
+//                "jdbc:mysql://127.0.0.1:3306;"
+//                        + "database=darius;"
+//                        + "user=root;"
+//                        + "password=root;"
+//                        + "loginTimeout=30;";
+        String connectionUrl = "jdbc:mysql://127.0.0.1:3306/darius?user=root&password=root&loginTimeout=30";
+
+        Connection connection = DatabaseUtil.open(connectionUrl);
+        DatabaseUtil.executeQuery("SELECT * FROM users",connection);
+
+        LogUtil logUtil = new LogUtil();
+        logUtil.createLogFile();
+        logUtil.write("Framework Initialize");
+
+        initializeBrowser(BrowserTypes.Firefox);
+        DriverContext.Browser.goToUrl("http://localhost:3000/signin");
+
+        try {
+            ExcelUtil excelUtil = new ExcelUtil("lib/data.xls");
+        } catch (BiffException | IOException e) {
+            throw new RuntimeException(e);
         }
-
-        DriverContext.Driver = new FirefoxDriver();
-        //driver.navigate().to("http://localhost:3000/signin");
-        DriverContext.Driver.navigate().to("https://automationteststore.com/");
-
     }
     @Test
     public void Login(){
 
-//        LoginPage page = new LoginPage(driver);
-//        page.Login("nume", "parola");
+        CurrentPage = GetInstance(LoginPage.class);
+        CurrentPage = CurrentPage.As(LoginPage.class).clickSignUp();
+        CurrentPage = CurrentPage.As(SignUpPage.class).SignUp("darius", "merca", "darius112", "darius12345", "darius12345");
 
-        HomePage homePage = new HomePage();
-        homePage.ClickLogin();
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
 
-        LoginPage page = new LoginPage();
-        page.SignIn("darius", "darius123");
+        //Hardcoded
+        //CurrentPage.As(LoginPage.class).Login("darius112","darius12345");
 
+        //Retrieve data from Excel sheet
+        CurrentPage.As(LoginPage.class).Login(ExcelUtil.readCell("Username",1),
+                ExcelUtil.readCell("Password",1));
+//        String username = ExcelUtil.readCell(0, 1);
+//        String password = ExcelUtil.readCell(1, 1);
+//        System.out.println("Retrieved username: " + username);
+//        System.out.println("Retrieved password: " + password);
+//        CurrentPage.As(LoginPage.class).Login(username, password);
     }
 }

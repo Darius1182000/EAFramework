@@ -10,3 +10,5 @@ Also you need to install the Test Automation plugin for Intellij.
 
 For MacOS you should use only drivers compatibles with macOS
 
+Log4j might be suitable to be used in logging the messages.
+
