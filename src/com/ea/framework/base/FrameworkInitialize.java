@@ -41,5 +41,4 @@ public class FrameworkInitialize extends Base{
         DriverContext.Browser = new Browser(driver);
 
     }
-
 }

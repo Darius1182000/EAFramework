@@ -1,5 +1,7 @@
 package com.ea.framework.utilities;
 
+import com.ea.framework.config.Settings;
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -17,7 +19,7 @@ public class LogUtil {
     //Create log files
     public void createLogFile() throws IOException {
         try{
-            File directory = new File("lib/logs/");
+            File directory = new File(Settings.LogPath);
             if(!directory.exists()) {
                 directory.mkdir();
             }
@@ -32,8 +34,11 @@ public class LogUtil {
     //Write message within the log file
     public void write(String message){
         try{
-            bufferedWriter.write(message);
-            bufferedWriter.close();
+            formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy' at 'HH.mm.ss");
+            String dateFormt = date.format(formatter);
+            bufferedWriter.write("["+dateFormt+"] "+message);
+            bufferedWriter.newLine();
+            bufferedWriter.flush();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }

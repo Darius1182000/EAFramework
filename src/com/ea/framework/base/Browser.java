@@ -10,10 +10,10 @@ public class Browser {
         this.driver = driver;
     }
 
-    public BrowserTypes Type;
     public void goToUrl (String url){
         driver.get(url);
     }
+
     public void maximize(){
         driver.manage().window().maximize();
     }

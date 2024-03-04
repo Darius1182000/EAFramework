@@ -11,18 +11,10 @@ import java.util.Hashtable;
 
 public class ExcelUtil {
 
-    //Open Excel Sheet
-    //Read Cell Data
-    //Store in-memory collections
-    //Get Cell method
-
     static Sheet worksheet;
     static Workbook workbook = null;
-   // static Hashtable dict = new Hashtable();
     static HashMap<String, Integer> dict = new HashMap<>();
 
-
-    //Create a Constructor
     public ExcelUtil(String path) throws BiffException, IOException{
         //Initialize
         workbook = Workbook.getWorkbook(new File(path));
@@ -51,17 +43,7 @@ public class ExcelUtil {
             dict.put(readCell(column,0), column);
         }
     }
-    //Read Column Names
-//    public static int getCell(String columnName){
-//        try{
-//            int value;
-//            value = dict.get(columnName);
-//            System.out.println("Value: "+value);
-//            return value;
-//        }catch (NullPointerException e){
-//            return(0);
-//        }
-//    }
+
     private static int getCell(String columnName) {
         Integer columnIndex = dict.get(columnName);
         if (columnIndex == null) {

@@ -1,5 +1,7 @@
 package com.ea.framework.utilities;
 
+import com.ea.framework.config.Settings;
+
 import java.lang.reflect.InvocationTargetException;
 import java.sql.*;
 
@@ -8,7 +10,7 @@ public class DatabaseUtil {
     public static Connection open(String connectionString){
 
         try {
-            Class.forName("com.mysql.cj.jdbc.Driver").getDeclaredConstructor().newInstance();
+            Class.forName(Settings.DriverType).getDeclaredConstructor().newInstance();
             return DriverManager.getConnection(connectionString);
         } catch (InstantiationException | IllegalAccessException | InvocationTargetException | NoSuchMethodException |
                  ClassNotFoundException | SQLException e) {
