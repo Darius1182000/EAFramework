@@ -1,8 +1,8 @@
 package com.ea.test.steps;
 
 import com.ea.framework.base.Base;
+import com.ea.framework.utilities.CucumberUtil;
 import com.ea.test.pages.LoginPage;
-import com.ea.test.pages.SignUpPage;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
@@ -12,41 +12,27 @@ import org.junit.Assert;
 import java.util.List;
 
 public class LoginSteps extends Base {
-
-    @And("I ensure application opened")
-    public void iEnsureApplicationOpened() {
-
+    @And("The application opens up")
+    public void theApplicationOpensUp() {
         CurrentPage = GetInstance(LoginPage.class);
         Assert.assertTrue("The login page is not loaded",CurrentPage.As(LoginPage.class).isLogin());
     }
 
-    @Then("I click the signUp link")
-    public void iClickTheLoginLink() {
-
-        CurrentPage = CurrentPage.As(LoginPage.class).clickSignUp();
+    @When("I enter the username and password")
+    public void iEnterTheUsernameAndPassword(DataTable dataTable) {
+        //List<List<String>> table = data.asLists();
+        //CurrentPage.As(LoginPage.class).Login(table.get(1).get(0), table.get(1).get(1));
+        CucumberUtil.convertDataTableToDictionary(dataTable);
+        CurrentPage.As(LoginPage.class).Login(CucumberUtil.getCellValue("Username"),CucumberUtil.getCellValue("Password"));
     }
 
-    @When("I enter the signUp data")
-    public void iEnterTheSignUpData() throws InterruptedException {
-        CurrentPage = CurrentPage.As(SignUpPage.class).SignUp("darius", "merca", "darius112", "darius12345", "darius12345");
-        Thread.sleep(1000);
-    }
-
-    @When("I enter Username and Password")
-    public void iEnterUserNameAndPassword(DataTable data) {
-
-        List<List<String>> table = data.asLists();
-       //CurrentPage.As(LoginPage.class).Login(table.get(0).toString(),table.get(1).toString());
-        CurrentPage.As(LoginPage.class).Login(table.get(1).get(0).toString(), table.get(1).get(1).toString());
-    }
-
-    @Then("I click login button")
-    public void iClickLoginButton() throws InterruptedException {
+    @Then("I click the login button")
+    public void iClickTheLoginButton() throws InterruptedException {
         CurrentPage.As(LoginPage.class).clickLogin();
         Thread.sleep(3000);
     }
 
-    @Then("I should see the username with hello")
-    public void iShouldSeeTheUsernameWithHello() {
+    @Then("Home page opens up")
+    public void homePageOpensUp() {
     }
 }
