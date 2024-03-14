@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="306f6fe6-c7fd-4dda-8938-df10e3cb1fde" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 10.50.34.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 10.55.25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.01.48.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.03.50.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.04.49.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.12.25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.16.47.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 09.55.18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 09.57.54.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 09.58.21.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.00.05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.01.11.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.05.53.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.08.16.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.45.58.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.48.32.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.55.49.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlFieldDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlListHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ImplementedBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ImplementedByProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/ButtonBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/HyperLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/HyperLinkBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/TextBoxBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/internals/Control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/internals/ControlBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ea/test/seleniumtest/TestInitializeJunit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/framework/base/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/TestNg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/TestNg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/features/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/features/SignUp.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/features/SignUp.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/pages/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/pages/SignUpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/runner/CucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/runner/CucumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/runner/TestNgTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/runner/TestNgTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/seleniumtest/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/seleniumtest/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/steps/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/steps/SignUpSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/steps/SignUpSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/steps/TestInitialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/steps/TestInitialize.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="settingUpPOM" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2cRNEL3bVu3its3clLcn5CXcgo3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Darius/IdeaProjects/EAFrameworkJava/src/test/com/ea/test/steps&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.5664557&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava\lib" />
+      <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava\src" />
+      <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava\" />
+      <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ea.test.seleniumtest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTest.Login">
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EAFrameworkJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ea.test.steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ea.test.seleniumtest" />
+      <option name="MAIN_CLASS_NAME" value="com.ea.test.seleniumtest.LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.Login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EAFrameworkJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ea.test.seleniumtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ea.test.seleniumtest" />
+      <option name="MAIN_CLASS_NAME" value="com.ea.test.seleniumtest.LoginTest" />
+      <option name="METHOD_NAME" value="Login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Darius/IdeaProjects/EAFrameworkJava/src/test/com/ea/test/TestNg.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EAFrameworkJava" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/com/ea/test/TestNg.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNgTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EAFrameworkJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ea.test.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ea.test.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.ea.test.runner.TestNgTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNgTest.runTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EAFrameworkJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ea.test.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ea.test.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.ea.test.runner.TestNgTest" />
+      <option name="METHOD_NAME" value="runTests" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest.Login" />
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="TestNG.C:/Users/Darius/IdeaProjects/EAFrameworkJava/src/test/com/ea/test/TestNg.xml" />
+        <item itemvalue="TestNG.TestNgTest" />
+        <item itemvalue="TestNG.TestNgTest.runTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastFrameworkName" value="Selenium" />
+    <option name="lastLanguageId" value="JAVA" />
+    <option name="lastUrl" value="http://localhost:3000/signin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="306f6fe6-c7fd-4dda-8938-df10e3cb1fde" name="Changes" comment="" />
+      <created>1708070319714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708070319714</updated>
+      <workItem from="1708070320766" duration="16193000" />
+      <workItem from="1708331479813" duration="7789000" />
+      <workItem from="1708449150203" duration="617000" />
+      <workItem from="1708586416035" duration="17394000" />
+      <workItem from="1708673039747" duration="7228000" />
+      <workItem from="1708863488074" duration="2592000" />
+      <workItem from="1708932142554" duration="16439000" />
+      <workItem from="1709018972219" duration="6368000" />
+      <workItem from="1709105423302" duration="12372000" />
+      <workItem from="1709195656924" duration="10712000" />
+      <workItem from="1709279933136" duration="1418000" />
+      <workItem from="1709284136942" duration="5444000" />
+      <workItem from="1709366211987" duration="2263000" />
+      <workItem from="1709369579091" duration="10904000" />
+      <workItem from="1709400065347" duration="4903000" />
+      <workItem from="1709460369656" duration="1911000" />
+      <workItem from="1709463045599" duration="234000" />
+      <workItem from="1709538812753" duration="7161000" />
+      <workItem from="1709623757164" duration="17829000" />
+      <workItem from="1709792667515" duration="13563000" />
+      <workItem from="1709881839925" duration="7317000" />
+      <workItem from="1710157749223" duration="2079000" />
+      <workItem from="1710313652383" duration="1186000" />
+      <workItem from="1710314845354" duration="59000" />
+      <workItem from="1710314912829" duration="2130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="io.cucumber.core.runner.DuplicateStepDefinitionException" package="io.cucumber.core.runner" />
+          <option name="timeStamp" value="8" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

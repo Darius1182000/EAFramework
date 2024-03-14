@@ -7,9 +7,6 @@ import org.openqa.selenium.support.How;
 
 
 public class SignUpPage extends BasePage {
-    public SignUpPage() {
-
-    }
 
     @FindBy (how = How.NAME, using = "firstName")
     public WebElement firstNameField;

@@ -7,10 +7,6 @@ import org.openqa.selenium.support.How;
 
 public class HomePage extends BasePage {
 
-    public HomePage(){
-
-    }
-
     @FindBy(how = How.XPATH, using = "//button[@data-test='user-onboarding-next']")
     public WebElement nextButton;
 
