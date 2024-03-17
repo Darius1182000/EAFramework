@@ -1,6 +1,7 @@
 package com.ea.test.pages;
 
 import com.ea.framework.base.BasePage;
+import com.ea.framework.base.DriverContext;
 import com.ea.framework.controls.elements.Button;
 import com.ea.framework.controls.elements.HyperLink;
 import com.ea.framework.controls.elements.TextBox;
@@ -52,6 +53,7 @@ public class LoginPage extends BasePage {
     }
 
     public void Login(String Username, String Password){
+        DriverContext.waitForElementVisible(usernameField);
         usernameField.sendKeys(Username);
         passwordField.sendKeys(Password);
         loginButton.submit();

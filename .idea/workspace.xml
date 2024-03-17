@@ -5,56 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="306f6fe6-c7fd-4dda-8938-df10e3cb1fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 10.50.34.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 10.55.25.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.01.48.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.03.50.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.04.49.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.12.25.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.16.47.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 09.55.18.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 09.57.54.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 09.58.21.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.00.05.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.01.11.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.05.53.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.08.16.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.45.58.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.48.32.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.55.49.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlFieldDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlListHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ImplementedBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ImplementedByProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/ButtonBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/HyperLink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/HyperLinkBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/TextBoxBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/internals/Control.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/framework/controls/internals/ControlBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ea/test/seleniumtest/TestInitializeJunit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/framework/base/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/TestNg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/TestNg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/features/Login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/features/SignUp.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/features/SignUp.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/pages/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/pages/SignUpPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/runner/CucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/runner/CucumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/runner/TestNgTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/runner/TestNgTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/seleniumtest/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/seleniumtest/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/steps/LoginSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/steps/SignUpSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/steps/SignUpSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/ea/test/steps/TestInitialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/steps/TestInitialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.51.44.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.52.13.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.53.16.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.53.45.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.54.18.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/DriverContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/framework/base/DriverContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/utilities/CucumberUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/framework/utilities/CucumberUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/features/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/steps/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/steps/SignUpSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/steps/SignUpSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +84,7 @@
       <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="main" />
       <recent name="com.ea" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -129,16 +92,70 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.LoginTest.Login">
-    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/com/ea/test/features/Login.feature" />
+      <option name="GLUE" value="com.ea.test.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="EAFrameworkJava" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Check Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Login.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="EAFrameworkJava" />
+      <option name="NAME_FILTER" value="^Check Login$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Check Login$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Check Login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EAFrameworkJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ea.test.steps.*" />
+          <option name="PATTERN" value="com.ea.test.seleniumtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.ea.test.seleniumtest" />
       <option name="MAIN_CLASS_NAME" value="com.ea.test.seleniumtest.LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EAFrameworkJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumtest" />
+      <option name="MAIN_CLASS_NAME" value="seleniumtest.LoginTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -160,58 +177,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Darius/IdeaProjects/EAFrameworkJava/src/test/com/ea/test/TestNg.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EAFrameworkJava" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/com/ea/test/TestNg.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNgTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EAFrameworkJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ea.test.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ea.test.runner" />
-      <option name="MAIN_CLASS_NAME" value="com.ea.test.runner.TestNgTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNgTest.runTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="EAFrameworkJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ea.test.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ea.test.runner" />
-      <option name="MAIN_CLASS_NAME" value="com.ea.test.runner.TestNgTest" />
-      <option name="METHOD_NAME" value="runTests" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.LoginTest.Login" />
+        <item itemvalue="Cucumber Java.Feature: Login" />
+        <item itemvalue="JUnit.LoginTest (1)" />
         <item itemvalue="JUnit.LoginTest" />
-        <item itemvalue="TestNG.C:/Users/Darius/IdeaProjects/EAFrameworkJava/src/test/com/ea/test/TestNg.xml" />
-        <item itemvalue="TestNG.TestNgTest" />
-        <item itemvalue="TestNG.TestNgTest.runTests" />
+        <item itemvalue="Cucumber Java.Scenario: Check Login" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +225,13 @@
       <workItem from="1710313652383" duration="1186000" />
       <workItem from="1710314845354" duration="59000" />
       <workItem from="1710314912829" duration="2130000" />
+      <workItem from="1710404212520" duration="2954000" />
+      <workItem from="1710575341093" duration="5596000" />
+      <workItem from="1710663176934" duration="2076000" />
+      <workItem from="1710665262250" duration="1965000" />
+      <workItem from="1710667549464" duration="25000" />
+      <workItem from="1710667589390" duration="3099000" />
+      <workItem from="1710670716111" duration="946000" />
     </task>
     <servers />
   </component>
@@ -294,6 +273,11 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="discoveryRequest" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

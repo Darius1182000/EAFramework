@@ -23,13 +23,14 @@ public class LoginSteps extends Base {
         //List<List<String>> table = data.asLists();
         //CurrentPage.As(LoginPage.class).Login(table.get(1).get(0), table.get(1).get(1));
         CucumberUtil.convertDataTableToDictionary(dataTable);
-        CurrentPage.As(LoginPage.class).Login(CucumberUtil.getCellValue("Username"),CucumberUtil.getCellValue("Password"));
+        //CurrentPage.As(LoginPage.class).Login(CucumberUtil.getCellValue("Username"),CucumberUtil.getCellValue("Password"));
+        CurrentPage.As(LoginPage.class).Login(CucumberUtil.getCellValueWithRowIndex("Username", 2),CucumberUtil.getCellValueWithRowIndex("Password", 2));
     }
 
     @Then("I click the login button")
     public void iClickTheLoginButton() throws InterruptedException {
         CurrentPage.As(LoginPage.class).clickLogin();
-        Thread.sleep(3000);
+        //Thread.sleep(3000);
     }
 
     @Then("Home page opens up")
