@@ -1,0 +1,16 @@
+package pages;
+
+import com.ea.framework.base.BasePage;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+
+public class HomePage extends BasePage {
+
+    @FindBy(how = How.XPATH, using = "//button[@data-test='user-onboarding-next']")
+    public WebElement nextButton;
+
+    public void completeOnboarding(){
+        nextButton.click();
+    }
+}

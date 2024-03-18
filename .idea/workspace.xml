@@ -5,18 +5,150 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="306f6fe6-c7fd-4dda-8938-df10e3cb1fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.51.44.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.52.13.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.53.16.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.53.45.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.54.18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 12.42.52.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 13.47.57.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.37.12.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.38.53.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.46.35.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.46.44.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.47.10.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.47.19.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.48.51.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.49.32.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.49.40.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.50.17.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.00.38.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.00.46.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.01.37.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.02.30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.02.39.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.03.21.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.08.01.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.09.08.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.09.16.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.09.24.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.17.27.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.17.36.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.17.44.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.19.35.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.19.44.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.19.53.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.30.10.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.30.20.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.30.29.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.33.09.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.33.18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.33.25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.35.11.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.35.19.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.35.27.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.41.03.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.41.12.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.41.20.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.44.37.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.44.46.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.44.54.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.46.02.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.46.10.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.46.18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.08.31.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.10.57.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.12.35.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.15.06.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.17.04.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.20.57.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.21.06.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.21.48.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.23.02.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.32.35.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.33.50.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.35.19.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 09.50.29.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.04.22.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.07.35.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.08.19.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.15.34.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.23.53.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.52.39.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.08.02.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.09.14.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.15.58.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.16.15.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.16.40.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.17.04.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.17.26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.18.29.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.18.46.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.19.05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.27.23.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.27.31.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.32.02.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.32.44.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.33.03.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.33.11.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.33.31.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.58.13.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 12.03.11.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 12.06.44.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 12.07.22.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 12.07.31.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.00.00.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.00.46.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.05.55.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.07.34.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.07.59.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.08.35.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.09.51.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.10.00.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.10.28.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.13.07.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.15.12.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.15.20.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.17.52.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/DriverContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/framework/base/DriverContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/utilities/CucumberUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/framework/utilities/CucumberUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/features/Login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/steps/LoginSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/steps/SignUpSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ea/test/steps/SignUpSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/base/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/base/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/base/Browser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/BrowserTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/base/BrowserTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/DriverContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/base/DriverContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/FrameworkInitialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/base/FrameworkInitialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/config/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/config/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/config/GlobalConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/config/GlobalConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/config/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/config/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/api/ControlFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlFieldDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/api/ControlFieldDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/api/ControlHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlListHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/api/ControlListHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ImplementedBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/api/ImplementedBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ImplementedByProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/api/ImplementedByProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/elements/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/ButtonBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/elements/ButtonBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/HyperLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/elements/HyperLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/HyperLinkBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/elements/HyperLinkBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/elements/TextBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/TextBoxBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/elements/TextBoxBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/internals/Control.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/internals/Control.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/internals/ControlBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/internals/ControlBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/utilities/CucumberUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/utilities/CucumberUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/utilities/DatabaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/utilities/DatabaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/utilities/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/utilities/ExcelUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/utilities/LogUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/utilities/LogUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/utilities/ReportingUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/utilities/ReportingUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/TestNg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestNg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/features/SignUp.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/SignUp.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/pages/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/SignUpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/runner/CucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/CucumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/runner/TestNgTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestNgTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/seleniumtest/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumtest/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/seleniumtest/TestInitializeJunit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumtest/TestInitializeJunit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/steps/SignUpSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/SignUpSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ea/test/steps/TestInitialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/TestInitialize.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +201,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.5664557&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
@@ -78,10 +210,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava\lib" />
+      <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava\src\main\java\com\ea\framework\config" />
+      <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava\src\main\java\com\ea\framework\base" />
+      <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava\src\main\java" />
+      <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava\src\com\ea\framework" />
       <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava\src" />
-      <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava\" />
-      <recent name="C:\Users\Darius\IdeaProjects\EAFrameworkJava" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="main" />
@@ -91,99 +224,131 @@
       <recent name="com.ea.test.seleniumtest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LoginTest.Login">
-    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/com/ea/test/features/Login.feature" />
-      <option name="GLUE" value="com.ea.test.steps" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="EAFrameworkJava" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: Login" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Check Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Login.feature" />
-      <option name="GLUE" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="EAFrameworkJava" />
-      <option name="NAME_FILTER" value="^Check Login$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Check Login$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Check Login" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/Darius/IdeaProjects/EAFrameworkJava/src/test/java/TestNg.xml">
+    <configuration name="CucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EAFrameworkJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ea.test.seleniumtest.*" />
+          <option name="PATTERN" value="runner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ea.test.seleniumtest" />
-      <option name="MAIN_CLASS_NAME" value="com.ea.test.seleniumtest.LoginTest" />
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.CucumberTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EAFrameworkJava [compile]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="EAFrameworkJava [verify]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="verify" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/Darius/IdeaProjects/EAFrameworkJava/src/test/java/TestNg.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EAFrameworkJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumtest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seleniumtest" />
-      <option name="MAIN_CLASS_NAME" value="seleniumtest.LoginTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TestNg.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest.Login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNgTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="EAFrameworkJava" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ea.test.seleniumtest.*" />
+          <option name="PATTERN" value="runner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ea.test.seleniumtest" />
-      <option name="MAIN_CLASS_NAME" value="com.ea.test.seleniumtest.LoginTest" />
-      <option name="METHOD_NAME" value="Login" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestNgTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.CucumberTest" />
+      <item itemvalue="Maven.EAFrameworkJava [compile]" />
+      <item itemvalue="Maven.EAFrameworkJava [verify]" />
+      <item itemvalue="TestNG.C:/Users/Darius/IdeaProjects/EAFrameworkJava/src/test/java/TestNg.xml" />
+      <item itemvalue="TestNG.TestNgTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LoginTest.Login" />
-        <item itemvalue="Cucumber Java.Feature: Login" />
-        <item itemvalue="JUnit.LoginTest (1)" />
-        <item itemvalue="JUnit.LoginTest" />
-        <item itemvalue="Cucumber Java.Scenario: Check Login" />
+        <item itemvalue="TestNG.C:/Users/Darius/IdeaProjects/EAFrameworkJava/src/test/java/TestNg.xml" />
+        <item itemvalue="TestNG.TestNgTest" />
+        <item itemvalue="Maven.EAFrameworkJava [compile]" />
+        <item itemvalue="Maven.EAFrameworkJava [verify]" />
+        <item itemvalue="JUnit.CucumberTest" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +396,10 @@
       <workItem from="1710665262250" duration="1965000" />
       <workItem from="1710667549464" duration="25000" />
       <workItem from="1710667589390" duration="3099000" />
-      <workItem from="1710670716111" duration="946000" />
+      <workItem from="1710670716111" duration="7401000" />
+      <workItem from="1710694686935" duration="7592000" />
+      <workItem from="1710702346022" duration="2068000" />
+      <workItem from="1710747305599" duration="11424000" />
     </task>
     <servers />
   </component>
@@ -276,6 +444,7 @@
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="discoveryRequest" />
+        <watch expression="this.configurationParameters" />
       </configuration>
     </watches-manager>
   </component>

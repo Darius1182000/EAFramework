@@ -12,3 +12,6 @@ For MacOS you should use only drivers compatibles with macOS
 
 Log4j might be suitable to be used in logging the messages.
 
+TODO:
+- Figure out the Cucumber report: a json file is generated only if you run the runner class without maven. In maven only 1 test runs and the json file is not generate. It s possible to read another runner??
+- 
