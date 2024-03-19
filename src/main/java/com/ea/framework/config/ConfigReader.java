@@ -9,11 +9,11 @@ import java.util.Properties;
 public class ConfigReader {
 
     public static void populateSettings() throws IOException {
-        ConfigReader reader = new ConfigReader();
+        var reader = new ConfigReader();
         reader.readProperty();
     }
     private void readProperty() throws IOException {
-        Properties properties = new Properties();
+        var properties = new Properties();
         //System.out.println(getClass().getResourceAsStream("GlobalConfig.properties"));
         properties.load(new FileInputStream("src/main/java/com/ea/framework/config/GlobalConfig.properties"));
         //properties.load(getClass().getResourceAsStream("GlobalConfig.properties"));

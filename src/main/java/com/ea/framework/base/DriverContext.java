@@ -20,8 +20,8 @@ public class DriverContext {
         Driver = driver;
     }
     public static  void waitForPageToLoad(){
-        WebDriverWait wait = new WebDriverWait(Driver, Duration.ofSeconds(30));
-        JavascriptExecutor jsExecutor = (JavascriptExecutor) Driver;
+        var wait = new WebDriverWait(Driver, Duration.ofSeconds(30));
+        var jsExecutor = (JavascriptExecutor) Driver;
 
         ExpectedCondition<Boolean> jsLoad = webDriver -> ((JavascriptExecutor) Driver)
                 .executeScript("return document.readyState").toString().equals("complete");
@@ -37,17 +37,17 @@ public class DriverContext {
     }
 
     public static void waitForElementVisible(final WebElement elementFindBy){
-        WebDriverWait wait = new WebDriverWait(Driver, Duration.ofSeconds(30));
+        var wait = new WebDriverWait(Driver, Duration.ofSeconds(30));
         wait.until(ExpectedConditions.visibilityOf(elementFindBy));
     }
 
     public static void waitForElementTextVisible(final WebElement elementFindBy, String text){
-        WebDriverWait wait = new WebDriverWait(Driver, Duration.ofSeconds(30));
+        var wait = new WebDriverWait(Driver, Duration.ofSeconds(30));
         wait.until(ExpectedConditions.textToBePresentInElement(elementFindBy, text));
     }
 
     public static void waitUntilTextDisplayed(final By element, String text){
-        WebDriverWait wait = new WebDriverWait(Driver, Duration.ofSeconds(30));
+        var wait = new WebDriverWait(Driver, Duration.ofSeconds(30));
         wait.until(textDisplayed(element, text));
     }
 
@@ -56,7 +56,7 @@ public class DriverContext {
     }
 
     public static void waitElementEnabled(final By elementFindBy){
-        WebDriverWait wait = new WebDriverWait(Driver, Duration.ofSeconds(30));
+        var wait = new WebDriverWait(Driver, Duration.ofSeconds(30));
         wait.until(webDriver -> webDriver.findElement(elementFindBy).isEnabled());
     }
 }

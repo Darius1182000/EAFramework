@@ -5,150 +5,234 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="306f6fe6-c7fd-4dda-8938-df10e3cb1fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 12.42.52.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 13.47.57.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.37.12.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.38.53.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.46.35.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.46.44.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.47.10.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.47.19.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.48.51.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.49.32.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.49.40.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.50.17.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.00.38.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.00.46.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.01.37.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.02.30.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.02.39.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.03.21.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.08.01.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.09.08.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.09.16.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.09.24.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.17.27.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.17.36.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.17.44.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.19.35.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.19.44.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.19.53.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.30.10.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.30.20.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.30.29.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.33.09.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.33.18.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.33.25.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.35.11.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.35.19.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.35.27.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.41.03.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.41.12.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.41.20.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.44.37.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.44.46.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.44.54.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.46.02.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.46.10.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.46.18.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.08.31.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.10.57.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.12.35.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.15.06.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.17.04.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.20.57.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.21.06.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.21.48.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.23.02.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.32.35.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.33.50.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.35.19.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 09.50.29.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.04.22.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.07.35.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.08.19.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.15.34.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.23.53.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.52.39.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.08.02.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.09.14.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.15.58.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.16.15.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.16.40.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.17.04.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.17.26.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.18.29.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.18.46.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.19.05.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.27.23.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.27.31.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.32.02.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.32.44.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.33.03.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.33.11.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.33.31.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.58.13.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 12.03.11.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 12.06.44.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 12.07.22.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 12.07.31.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.00.00.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.00.46.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.05.55.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.07.34.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.07.59.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.08.35.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.09.51.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.10.00.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.10.28.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.13.07.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.15.12.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.15.20.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.17.52.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/base/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/base/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/base/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/BrowserTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/base/BrowserTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/DriverContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/base/DriverContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/base/FrameworkInitialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/base/FrameworkInitialize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/config/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/config/ConfigReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/config/GlobalConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/config/GlobalConfig.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/config/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/config/Settings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/api/ControlFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlFieldDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/api/ControlFieldDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/api/ControlHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ControlListHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/api/ControlListHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ImplementedBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/api/ImplementedBy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/api/ImplementedByProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/api/ImplementedByProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/elements/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/ButtonBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/elements/ButtonBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/HyperLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/elements/HyperLink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/HyperLinkBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/elements/HyperLinkBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/elements/TextBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/elements/TextBoxBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/elements/TextBoxBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/internals/Control.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/internals/Control.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/controls/internals/ControlBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/controls/internals/ControlBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/utilities/CucumberUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/utilities/CucumberUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/utilities/DatabaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/utilities/DatabaseUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/utilities/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/utilities/ExcelUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/utilities/LogUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/utilities/LogUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/framework/utilities/ReportingUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/utilities/ReportingUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/TestNg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestNg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/Login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/features/SignUp.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/SignUp.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/pages/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/SignUpPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/runner/CucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/CucumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/runner/TestNgTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestNgTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/seleniumtest/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumtest/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/seleniumtest/TestInitializeJunit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumtest/TestInitializeJunit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/LoginSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/steps/SignUpSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/SignUpSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ea/test/steps/TestInitialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/TestInitialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 12.37.29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 12.42.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 12.43.59.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 12.49.57.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 12.52.18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 13.41.33.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 13.43.45.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 13.46.58.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 13.47.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 13.48.05.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 13.49.07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 13.49.39.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 13.50.15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 13.59.57.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 14.13.48.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 15.17.51.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 15.18.13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/02.03.2024 at 19.56.27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/03.03.2024 at 12.52.34.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 09.57.49.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 10.04.53.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 10.18.22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 10.19.48.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 10.21.30.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 10.25.37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 10.35.05.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 14.20.00.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 14.22.52.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 14.23.29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 14.24.33.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 15.03.31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/04.03.2024 at 15.34.51.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 09.33.04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 09.41.29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 09.54.29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 09.55.19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 10.14.49.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 10.15.11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 10.51.40.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 10.51.52.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 12.20.21.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 12.20.32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 13.00.18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 13.00.31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 13.09.49.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 13.10.01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 17.33.10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 17.33.22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 18.30.45.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 18.30.57.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 18.50.26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 18.50.37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 18.51.55.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 18.52.06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 18.53.15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 18.53.27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 20.27.06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 20.27.18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 20.28.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 20.28.56.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 20.33.01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/05.03.2024 at 20.33.13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/07.03.2024 at 10.50.34.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/07.03.2024 at 10.55.25.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.01.48.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.03.50.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.04.49.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.12.25.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/07.03.2024 at 11.16.47.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/08.03.2024 at 09.55.18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/08.03.2024 at 09.57.54.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/08.03.2024 at 09.58.21.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.00.05.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.01.11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.05.53.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.08.16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.45.58.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.48.32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/08.03.2024 at 10.55.49.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/08.03.2024 at 12.55.33.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/08.03.2024 at 12.58.01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/13.03.2024 at 09.39.06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/14.03.2024 at 10.37.58.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/14.03.2024 at 10.38.33.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.51.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.52.13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.53.16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.53.45.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.54.18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.54.48.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.55.25.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.55.46.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.56.31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.59.03.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 10.59.25.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 11.02.33.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 11.03.29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 11.03.54.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 11.04.45.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 11.06.43.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 11.08.58.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 11.09.20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 11.09.53.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 19.20.35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 19.20.56.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 19.21.49.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 19.23.11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 19.24.01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/16.03.2024 at 19.24.27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 12.34.26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 12.35.02.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 12.35.45.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 12.42.52.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 13.47.57.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 15.20.40.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 15.22.14.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 15.22.35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.37.12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.38.53.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.46.35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.46.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.47.10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.47.19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.48.51.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.49.32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.49.40.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 19.50.17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.00.38.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.00.46.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.01.37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.02.30.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.02.39.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.03.21.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.08.01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.09.08.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.09.16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.09.24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.17.27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.17.36.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.17.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.19.35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.19.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.19.53.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.30.10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.30.20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.30.29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.33.09.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.33.18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.33.25.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.35.11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.35.19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.35.27.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.41.03.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.41.12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.41.20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.44.37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.44.46.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.44.54.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.46.02.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.46.10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.46.18.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.52.56.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.53.05.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.53.13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.58.17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 20.59.41.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.01.24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.04.43.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.08.31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.10.57.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.12.35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.15.06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.17.04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.20.57.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.21.06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.21.48.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.23.02.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.32.35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.33.50.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.35.19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/17.03.2024 at 21.39.20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 09.50.29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.04.22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.07.35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.08.19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.15.34.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.23.53.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 10.52.39.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.08.02.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.09.14.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.15.58.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.16.15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.16.40.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.17.04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.17.26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.18.29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.18.46.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.19.05.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.27.23.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.27.31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.32.02.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.32.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.33.03.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.33.11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.33.31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 11.58.13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 12.03.11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 12.06.44.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 12.07.22.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 12.07.31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.00.00.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.00.46.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.05.55.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.07.34.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.07.59.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.08.35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.09.51.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.10.00.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.10.28.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.13.07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.15.12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.15.20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/18.03.2024 at 13.17.52.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/29.02.2024 at 19.12.17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/29.02.2024 at 19.13.01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ea/framework/config/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/config/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ea/framework/utilities/LogUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ea/framework/utilities/LogUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,18 +308,23 @@
       <recent name="com.ea.test.seleniumtest" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Darius/IdeaProjects/EAFrameworkJava/src/test/java/TestNg.xml">
-    <configuration name="CucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Check Login with correct username and password after signing up">
+    <configuration name="Scenario: Check Login with correct username and password after signing up" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/SignUp.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="EAFrameworkJava" />
+      <option name="NAME_FILTER" value="^Check Login with correct username and password after signing up$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Check Login with correct username and password after signing up$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Check Login with correct username and password after signing up" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="runner.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="runner" />
-      <option name="MAIN_CLASS_NAME" value="runner.CucumberTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -336,7 +425,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CucumberTest" />
+      <item itemvalue="Cucumber Java.Scenario: Check Login with correct username and password after signing up" />
       <item itemvalue="Maven.EAFrameworkJava [compile]" />
       <item itemvalue="Maven.EAFrameworkJava [verify]" />
       <item itemvalue="TestNG.C:/Users/Darius/IdeaProjects/EAFrameworkJava/src/test/java/TestNg.xml" />
@@ -344,11 +433,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: Check Login with correct username and password after signing up" />
         <item itemvalue="TestNG.C:/Users/Darius/IdeaProjects/EAFrameworkJava/src/test/java/TestNg.xml" />
         <item itemvalue="TestNG.TestNgTest" />
         <item itemvalue="Maven.EAFrameworkJava [compile]" />
         <item itemvalue="Maven.EAFrameworkJava [verify]" />
-        <item itemvalue="JUnit.CucumberTest" />
       </list>
     </recent_temporary>
   </component>
@@ -400,6 +489,7 @@
       <workItem from="1710694686935" duration="7592000" />
       <workItem from="1710702346022" duration="2068000" />
       <workItem from="1710747305599" duration="11424000" />
+      <workItem from="1710782858800" duration="1711000" />
     </task>
     <servers />
   </component>
