@@ -14,4 +14,5 @@ Log4j might be suitable to be used in logging the messages.
 
 TODO:
 - Figure out the Cucumber report: a json file is generated only if you run the runner class without maven. In maven only 1 test runs and the json file is not generate. It s possible to read another runner??
+- The course shows me how to use selenium grid with selenium-server-standalone which is deprecated. Need to figure out how to work with newer technologies.
 - 

@@ -10,4 +10,8 @@ public interface Button extends Control {
     void performClick();
     String getButtonText();
     void performSubmit();
+    ControlBase Wait();
+    ControlBase WaitForVisible();
+    ControlBase Click();
+    ControlBase ScrollToElement();
 }

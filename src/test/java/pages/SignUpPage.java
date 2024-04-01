@@ -1,6 +1,7 @@
 package pages;
 
 import com.ea.framework.base.BasePage;
+import com.ea.framework.controls.elements.Button;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
@@ -24,7 +25,7 @@ public class SignUpPage extends BasePage {
     public WebElement confirmPasswordField;
 
     @FindBy (how = How.XPATH, using = "//button[@data-test='signup-submit']")
-    public WebElement signUpButton;
+    public Button signUpButton;
 
     @FindBy (how = How.XPATH, using = "//a[@href='/signin']")
     public WebElement signInLink;

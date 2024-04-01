@@ -1,7 +1,9 @@
 package steps;
 
+import com.aventstack.extentreports.gherkin.model.IGherkinFormatterModel;
 import com.ea.framework.base.Base;
 import com.ea.framework.utilities.CucumberUtil;
+import com.ea.framework.utilities.ExtentReport;
 import pages.LoginPage;
 import pages.SignUpPage;
 import io.cucumber.datatable.DataTable;
@@ -17,6 +19,8 @@ public class SignUpSteps extends Base {
 
         CurrentPage = GetInstance(LoginPage.class);
         Assert.assertTrue("The login page is not loaded",CurrentPage.As(LoginPage.class).isLogin());
+        ExtentReport.scenario.createNode(com.aventstack.extentreports.gherkin.model.And.class, "I ensure application opened");
+        //Instead od And,class I could use GherkinKeyword("And") and throw exception
     }
 
     @Then("I click the signUp link")

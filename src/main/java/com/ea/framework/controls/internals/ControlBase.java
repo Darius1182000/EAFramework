@@ -1,5 +1,6 @@
 package com.ea.framework.controls.internals;
 
+import com.ea.framework.base.DriverContext;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Coordinates;
 
@@ -138,5 +139,28 @@ public class ControlBase implements Control{
         // and directly interacts with the webElement.
         // However, it can be added for potential future extensions or compatibility.
         return webElement;
+    }
+
+    public ControlBase Wait() {
+        DriverContext.waitForPageToLoad();
+        return this;
+    }
+
+    @Override
+    public ControlBase WaitForVisible() {
+        DriverContext.waitForElementVisible(getWrappedElement());//instead of getWrapped element i could use element, that method is deprecated and I only added it for the sake of the course
+        return this;
+    }
+
+    @Override
+    public ControlBase Click() {
+        getWrappedElement().click();
+        return this;
+    }
+
+    @Override
+    public ControlBase ScrollToElement() {
+        //JAVA SCRIPT
+        return this;
     }
 }

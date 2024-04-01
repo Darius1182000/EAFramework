@@ -13,7 +13,7 @@ public class CucumberUtil {
 
     public static List<DataCollection> convertDataTableToDictionary(DataTable dataTable){
         dataCollectionDictionary.clear();
-        List<List<String>> data = dataTable.asLists();
+        var data = dataTable.asLists();
         int rowNumber = 0;
         for(List<String> column : data){
             for(int columnIndex = 0; columnIndex < column.size(); columnIndex++){

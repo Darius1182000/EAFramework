@@ -1,12 +1,15 @@
 package steps;
 
+import com.aventstack.extentreports.GherkinKeyword;
 import com.ea.framework.base.DriverContext;
 import com.ea.framework.base.FrameworkInitialize;
 import com.ea.framework.config.ConfigReader;
 import com.ea.framework.config.Settings;
 import com.ea.framework.utilities.DatabaseUtil;
 import com.ea.framework.utilities.ExcelUtil;
+import com.ea.framework.utilities.ExtentReport;
 import com.ea.framework.utilities.LogUtil;
+import io.cucumber.java.Scenario;
 import jxl.read.biff.BiffException;
 import org.junit.jupiter.api.BeforeEach;
 import java.io.IOException;
@@ -16,7 +19,10 @@ import io.cucumber.java.Before;
 public class TestInitialize extends FrameworkInitialize {
 
     @Before
-    public void Initialize() throws IOException {
+    public void Initialize(Scenario scenario) throws IOException, ClassNotFoundException {
+
+        //Insert the scenario name
+        ExtentReport.scenario = ExtentReport.feature.createNode(new GherkinKeyword("Scenario"), scenario.getName());
 
         //Initialize config
         ConfigReader.populateSettings();

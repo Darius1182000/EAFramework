@@ -48,7 +48,13 @@ public class LoginPage extends BasePage {
     public WebElement saveButton;
 
     public SignUpPage clickSignUp(){
-        signUpLink.clickLink();
+        //signUpLink.clickLink();
+
+//        signUpLink.Wait();
+//        signUpLink.WaitForVisible();
+//        signUpLink.Click();
+
+        signUpLink.WaitForVisible().Click();//Type of variable is control base so we can use chaining methods. We cannot chain methods from WebElement, ony from  our custom control
         return GetInstance(SignUpPage.class);
     }
 
